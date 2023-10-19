@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Abu Hanif Mohammad Noman
 #### I am Web Developer
-![I am Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi, I'm Hanif Mohammad Noman
 
